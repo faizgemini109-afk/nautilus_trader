@@ -13,6 +13,7 @@
 #  limitations under the License.
 # -------------------------------------------------------------------------------------------------
 
+import utils.session
 import click
 import fsspec
 import msgspec
